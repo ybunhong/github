@@ -1,0 +1,9 @@
+Y Bunhong
+[Hotel Information]
+-709, New York City, St.Baker
+-Check-in: 12:00pm
+-Check-out: 3:00pm
+
+[Convenience facilities]
+-Wifi
+-Two beds
